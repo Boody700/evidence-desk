@@ -1,0 +1,2 @@
+# Optional standalone chart only. The app and core pipeline use Node.js.
+matplotlib==3.11.2

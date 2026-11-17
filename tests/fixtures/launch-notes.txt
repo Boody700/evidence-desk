@@ -1,0 +1,8 @@
+FICTIONAL TEST DOCUMENT — NOT A REAL COMPANY POLICY
+
+Atlas launch notes
+
+The Atlas project owner is Mira Chen. The release date is 14 June 2030.
+The rollback window is 24 hours after launch. The support contact is the Atlas internal help desk.
+The review meeting happens every Monday. The release approval owner is Omar Patel.
+This short document exists only to test local file ingestion, question answering and citations.

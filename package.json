@@ -1,0 +1,18 @@
+{
+  "name": "evidence-desk",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "prepare-data": "node scripts/prepare.mjs",
+    "evaluate": "node scripts/evaluate.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "start": "node scripts/serve.mjs"
+  },
+  "dependencies": {
+    "@huggingface/transformers": "4.3.2",
+    "pdfjs-dist": "5.4.394"
+  },
+  "devDependencies": { "esbuild": "0.25.12" }
+}

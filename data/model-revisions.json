@@ -1,0 +1,13 @@
+{
+  "embedding": {
+    "id": "Xenova/all-MiniLM-L6-v2",
+    "revision": "751bff37182d3f1213fa05d7196b954e230abad9",
+    "onnx_sha256": "afdb6f1a0e45b715d0bb9b11772f032c399babd23bfc31fed1c170afc848bdb1"
+  },
+  "qa": {
+    "id": "Xenova/distilbert-base-cased-distilled-squad",
+    "revision": "bdbb0a5e9c617c3c7ea9f3cbaf2be3ad871bcd7d",
+    "onnx_sha256": "fb134f63a53c22ce070ccaedd3a299b57ed546e71ab391579e418e8d0bd69ee6"
+  },
+  "verification": "Quantized ONNX SHA-256 hashes from the evaluated local assets match the Hugging Face repository LFS metadata for these exact revisions."
+}

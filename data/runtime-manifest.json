@@ -1,0 +1,6 @@
+{
+  "package": "onnxruntime-web",
+  "version": "1.31.0-dev.20260914-8d85527a0",
+  "base": "https://cdn.jsdelivr.net/npm/onnxruntime-web@1.31.0-dev.20260914-8d85527a0/dist/",
+  "reason": "Pinned public runtime CDN avoids the static host 25 MiB/file limit. Documents and queries remain local."
+}

@@ -1,0 +1,16 @@
+[
+{"id":"final-01","split":"test","question":"What does privacy generally refer to?","docId":"ai-rmf","pages":[22],"answers":["norms and practices that help to safeguard human autonomy, identity, and dignity"]},
+{"id":"final-02","split":"test","question":"Which privacy values should guide AI design choices?","docId":"ai-rmf","pages":[22],"answers":["anonymity, confidentiality, and control"]},
+{"id":"final-03","split":"test","question":"What are the three major categories of AI bias identified by NIST?","docId":"ai-rmf","pages":[23],"answers":["systemic, computational and statistical, and human-cognitive"]},
+{"id":"final-04","split":"test","question":"What question can transparency answer about an AI system?","docId":"ai-rmf","pages":[22],"answers":["what happened"]},
+{"id":"final-05","split":"test","question":"What question can interpretability answer about an AI decision?","docId":"ai-rmf","pages":[22],"answers":["why"]},
+{"id":"final-06","split":"test","question":"What function allocates risk resources to mapped and measured risks?","docId":"ai-rmf","pages":[36],"answers":["MANAGE"]},
+{"id":"final-07","split":"test","question":"What can risk response options include?","docId":"ai-rmf","pages":[37],"answers":["mitigating, transferring, avoiding, or accepting"]},
+{"id":"final-08","split":"test","question":"What does a Target Profile indicate?","docId":"ai-rmf","pages":[38],"answers":["outcomes needed to achieve the desired or target AI risk management goals"]},
+{"id":"final-09","split":"test","question":"Which four primary considerations did the Generative AI Public Working Group focus on?","docId":"genai-profile","pages":[6],"answers":["Governance, Content Provenance, Pre-deployment Testing, and Incident Disclosure"]},
+{"id":"final-10","split":"test","question":"What does algorithmic monocultures refer to?","docId":"genai-profile","pages":[6],"answers":["repeated use of the same model or algorithm in consequential decision-making settings"]},
+{"id":"final-11","split":"test","question":"How many GPUs did NIST use to train its own customer-service chatbot?","answers":[]},
+{"id":"final-12","split":"test","question":"Who is the current chief technology officer of my company?","answers":[]},
+{"id":"final-13","split":"test","question":"What is the password for Evidence Desk's cloud storage account?","answers":[]},
+{"id":"final-14","split":"test","question":"What mandatory certification deadline does the AI RMF impose on all companies?","answers":[]}
+]

@@ -1,0 +1,5 @@
+{
+  "minSemantic": 0.4,
+  "minExtraction": 0.2,
+  "retrievalMode": "lexical"
+}

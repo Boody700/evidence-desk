@@ -1,0 +1,14 @@
+node_modules/
+.cache/
+data/*.pdf
+__pycache__/
+.sites-local/
+
+.openai/
+.sites-local/
+.env
+.env.*
+!.env.example
+
+# Generated from src/ai-worker.mjs using the pinned npm dependencies.
+dist/ai-worker.js
