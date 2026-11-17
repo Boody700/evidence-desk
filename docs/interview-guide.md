@@ -4,7 +4,7 @@
 
 “I built a document research assistant that runs locally in the browser. It parses PDFs, creates page-bound chunks, compares keyword and semantic retrieval, and uses a quantized question-answering model to extract a candidate answer with a page citation. The first benchmark showed that hybrid retrieval was not automatically better for this corpus, so development-only evaluation selected BM25. I separated relevant-page retrieval, answer token F1, abstention and source containment, because a valid citation alone does not prove the answer is correct.”
 
-Use this after running and understanding the implementation. Explain AI assistance honestly and distinguish what you reviewed or changed personally.
+Use this after running and understanding the implementation. Explain what you reviewed or changed personally.
 
 ## Questions to prepare
 
